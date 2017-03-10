@@ -2,6 +2,8 @@
 bundle.js
 npm-debug.log
 
+/src/actions/api_key.js
+
 # IntelliJ
 *.iml
 /.idea
